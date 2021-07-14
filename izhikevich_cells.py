@@ -54,7 +54,7 @@ class izhCell():
         self.k=0.7
         self.a=0.03
         self.b=-2
-        self.c=-56
+        self.c=-50
         self.d=100
         self.vpeak=35
         self.stimVal = stimVal
